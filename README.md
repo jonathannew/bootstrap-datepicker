@@ -1,5 +1,9 @@
 # [bootstrap-datepicker](http://eternicode.github.com/bootstrap-datepicker/) [![Build Status](https://travis-ci.org/eternicode/bootstrap-datepicker.png?branch=master)](https://travis-ci.org/eternicode/bootstrap-datepicker)
 
+The purpose of this fork is to fix conversion between local time & UTC. @eternicode's version doesn't work correctly with [AngularStrap](https://github.com/mgcrea/angular-strap)
+
+
+
 This is a fork of Stefan Petre's [original code](http://www.eyecon.ro/bootstrap-datepicker/);
 thanks go to him for getting this thing started!
 
